@@ -1,1 +1,5 @@
-# oclif_rewrite
+oclif_rewrite
+=============
+
+# start
+ npm start
